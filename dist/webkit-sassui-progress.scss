@@ -1,0 +1,14 @@
+/*webkit-sassui-progress Start*/
+@mixin webkit-sassui-progress($inHeight:10px,$inRadius:100px,$inBgColor:#e6e6e6,$inFgColor:#f24) {
+  //Your mixin code goes here.
+  position: relative;
+  height: $inHeight;
+  background: #e6e6e6;
+  border-radius: $inRadius;
+  > .bd {
+    height: 100%;
+    border-radius: $inRadius;
+    background: #f24;
+  }
+}
+/*webkit-sassui-progress End*/

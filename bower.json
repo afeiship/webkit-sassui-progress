@@ -1,0 +1,29 @@
+{
+  "name": "webkit-sassui-progress",
+  "description": "Webkit sass ui module for progress.",
+  "main": [
+    "dist/webkit-sassui-progress.css",
+    "dist/webkit-sassui-progress.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "progress"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}

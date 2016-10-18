@@ -1,0 +1,4 @@
+@import "../dist/webkit-sassui-progress.scss";
+.test-webkit-sassui-progress{
+  @include webkit-sassui-progress();
+}

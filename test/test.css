@@ -1,0 +1,14 @@
+/*webkit-sassui-progress Start*/
+/*webkit-sassui-progress End*/
+.test-webkit-sassui-progress {
+  position: relative;
+  height: 10px;
+  background: #e6e6e6;
+  border-radius: 100px;
+}
+
+.test-webkit-sassui-progress > .bd {
+  height: 100%;
+  border-radius: 100px;
+  background: #f24;
+}
